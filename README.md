@@ -10,7 +10,9 @@ This repository demonstrates how to **serve a large language model (LLM)** local
 - Serves the `google/gemma-2-2b-it` model locally using `vllm`.
 - Communicates with the local server via the OpenAI-compatible API interface.
 - Generates a response to a user prompt using the locally served LLM.
-🧩 What is vLLM and Why Use It?
+
+
+## 🧩 What is vLLM and Why Use It?
 vLLM is a high-performance and easy-to-use inference engine for large language models (LLMs). It is designed to serve LLMs with high throughput and low latency — ideal for both research and production environments.
 
 ✅ Key Benefits of Using vLLM for LLM Serving:
